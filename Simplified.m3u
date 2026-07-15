@@ -82,5 +82,11 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Cooking",Gordon Ramsays Hells Kitchen (1080p)
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVKFood.us" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6aedfb80-69ab-4b5d-a34b-8e720a753673%2FNEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Cooking",Pluto TV KFood (1080p)
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
 
 
