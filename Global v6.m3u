@@ -58,6 +58,12 @@ https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 #EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://iili.io/bEAaaa.png" group-title="Animation",Nickelodeon Pluto TV (1080p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nick_Jr_Pluto_TV.png" group-title="Animation",Nick Jr Pluto TV (1080p)
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-logo="https://iili.io/bEAaaa.png" group-title="Kids",Teen Nick (1080p)
+http://206.212.244.63/670/index.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage_1762352084828.jpg" group-title="Comedy",Comedy Central Pluto TV (1080p)
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
@@ -94,5 +100,6 @@ https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.natgeofe.com/n/1852daf6-1c8d-4428-8ee2-d9a82bd0401c/ng-border.png" group-title="Documentary",National Geographic (1080p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 
-#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://images.seeklogo.com/logo-png/48/1/world-channel-logo-png_seeklogo-487951.png" group-title="Documentary",World Channel (1080p)
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://worldchannel.org/media/filer_public_thumbnails/filer_public/fe/6a/fe6a4e0f-13e9-4c86-8fde-847728a5e8d1/signature__what_to_watch_1920x1080_2.jpg__1920.0x1080.0_q85_subsampling-2.jpg" group-title="Documentary",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
+
