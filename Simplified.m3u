@@ -58,12 +58,11 @@ https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 #EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://iili.io/bEAaaa.png" group-title="Animation",Nickelodeon Pluto TV (1080p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage_1762352084828.jpg" group-title="Comedy",Comedy Central Pluto TV (1080p)
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation (1080p)
+#EXTINF:-1 tvg-id="ComedyCentralAnimationPlutoTV.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation Pluto TV (1080p)
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-
 
 
 
