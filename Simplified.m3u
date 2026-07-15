@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PH",A2Z (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
-#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News",Abante TV (1080p)
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9f/Abante_Logo_1987.png" group-title="News",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/LFgDPhN.png" group-title="PH",ALLTV2 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/alltv/playlist.m3u8
@@ -55,5 +55,5 @@ https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo=https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoSVG.svg" group-title="Animation",Nickelodeon Pluto TV (1080p)
+#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://iili.io/bEAaaa.png" group-title="Animation",Nickelodeon Pluto TV (1080p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
