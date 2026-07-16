@@ -127,6 +127,9 @@ https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="CNN.HD.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="TV",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
@@ -134,6 +137,9 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2025/11/fast-banner-art-logo.png?w=500" group-title="Documentary",Xtreme Outdoor Presented by HISTORY (720p)
 https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
