@@ -58,6 +58,9 @@ https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeepneyTV.ph@SD" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="PH",Jeepney TV (480p)
 https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" group-title="PH",Tagalized Movie Channel
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://i.pinimg.com/736x/96/35/0a/96350aa98fdece18b015253539761be8.jpg" group-title="Animation",Cartoon Network Adult Swim (1080p)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
