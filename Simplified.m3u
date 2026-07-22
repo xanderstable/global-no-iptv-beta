@@ -417,7 +417,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.natgeofe.com/n/1852daf6-1c8d-4428-8ee2-d9a82bd0401c/ng-border.png" group-title="Documentary",National Geographic (1080p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://imgur.com/a/0F76cyB" group-title="Sports",NBA TV (1080p)
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/QM49BHl.png" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
