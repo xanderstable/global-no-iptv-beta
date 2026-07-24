@@ -433,8 +433,111 @@ http://206.212.244.63/61/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic",FilmRise Classic TV (720p)
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
+
+#EXTINF:-1 tvg-id="HBO.SD.us2" tvg-logo="" group-title="TV",HBO SD
+http://40.160.24.58/HBO_SD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.HD.us2" tvg-logo="" group-title="TV",HBO HD
+http://40.160.24.53/HBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO1.HD.us2" tvg-logo="" group-title="TV",HBO 1 (ES)
+http://38.19.16.151:8000/play/a03d
+
+#EXTINF:-1 tvg-id="HBO1sub1.HD.us2" tvg-logo="" group-title="TV",HBO 1 (ES) sub ch1
+http://190.60.46.228:8888/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSub1.us2" tvg-logo="" group-title="TV",HBO sub ch1
+https://aes.m3u8simplu.workers.dev:443/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.es" tvg-logo="" group-title="TV",HBO (ES)
+http://177.10.184.193:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOsub1.es" tvg-logo="" group-title="TV",HBO (ES) sub ch1
+http://177.10.184.193:8000/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOsub2.es" tvg-logo="" group-title="TV",HBO (ES) sub ch2
+http://38.52.208.106:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="" group-title="TV",HBO East
+http://40.160.24.53/HBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOEastUS.us" tvg-logo="" group-title="TV",HBO East (US)
+http://daleplaytv.vip:80//live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/399214.ts
+
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-logo="" group-title="TV",HBO 2 (CA)
+https://sra72yz.s.gy/HBO_2_CANADA
+
+#EXTINF:-1 tvg-id="HBO2.us2" tvg-logo="" group-title="TV",HBO 2 (FR)
+https://aes.m3u8simplu.workers.dev:443/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.es" tvg-logo="" group-title="TV",HBO 2 (ES)
+http://190.60.46.228:8888/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="" group-title="TV",HBO Comedy
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
+
+#EXTINF:-1 tvg-id="HBODramaWest.us" tvg-logo="" group-title="TV",HBO Drama West
+https://restream-live.realiptv.to/1234567/7654321/1094569
+
+#EXTINF:-1 tvg-id="HBOExtreme.es" tvg-logo="" group-title="TV",HBO Extreme (ES)
+http://177.10.184.193:8000/play/a0gk/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.es" tvg-logo="" group-title="TV",HBO Family (ES)
+http://177.10.184.193:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilysub1.es" tvg-logo="" group-title="TV",HBO Family (ES) sub ch1
+http://177.10.184.193:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilysub2.es" tvg-logo="" group-title="TV",HBO Family (ES) sub ch2
+http://38.52.208.106:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilysub3.es" tvg-logo="" group-title="TV",HBO Family (ES) sub ch3
+http://181.78.106.127:5000/play/a0o8/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-logo="" group-title="TV",HBO Movies
+https://ken1402-antv-live.hf.space/stream/hbo/master.m3u8
+
+#EXTINF:-1 tvg-id="HBOMoviesUHD.us" tvg-logo="" group-title="TV",HBO Movies UHD
+https://restream-live.realiptv.to/1234567/7654321/51552
+
+#EXTINF:-1 tvg-id="HBOMundi.es" tvg-logo="" group-title="TV",HBO Mundi (ES)
+http://45.173.231.22:8000/play/a0a1/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.es" tvg-logo="" group-title="TV",HBO Plus (ES) 
+http://177.10.184.193:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlussub1.es" tvg-logo="" group-title="TV",HBO Plus (ES) sub ch1
+http://177.10.184.193:8000/play/a0gi/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlussub2.es" tvg-logo="" group-title="TV",HBO Plus (ES) sub ch2
+http://38.52.208.106:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.es" tvg-logo="" group-title="TV",HBO Pop (ES)
+http://177.53.152.117:8000/play/a08q/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPopsub1.es" tvg-logo="" group-title="TV",HBO Pop (ES) sub ch1
+http://45.173.231.22:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="" group-title="TV",HBO Signature East
+https://cdn.telecloud.tv/CH3265/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.es" tvg-logo="" group-title="TV",HBO Signature (ES)
+http://45.173.231.22:8000/play/a0a0/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignaturesub1.es" tvg-logo="" group-title="TV",HBO Signature (ES) sub ch1
+http://190.93.229.30:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.es" tvg-logo="" group-title="TV",HBO Xtreme (ES)
+http://38.52.208.106:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremesub1.es" tvg-logo="" group-title="TV",HBO Xtreme (ES) sub ch1
+http://181.78.106.127:5000/play/ca069/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="" group-title="TV",HBO Zone East
+https://cdn.telecloud.tv/CH3263/index.m3u8
 
 #EXTINF:-1 tvg-id="AloneByHistory.us" tvg-logo="https://cdn.watch.aetnd.com/sites/2/2023/04/alone-s9-logo-black.png?w=400" group-title="Documentary",Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
