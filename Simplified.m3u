@@ -447,6 +447,9 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="" group-title="XXX", Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MiamiTVSunBeach.us" tvg-logo="" group-title="XXX", Miami TV Sun Beach
+http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
+
 #EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@AU" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere AU (1080p)
@@ -462,6 +465,9 @@ http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/QM49BHl.png" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATVsub1.us" tvg-logo="https://i.imgur.com/QM49BHl.png" group-title="Sports",NBA TV sub ch1
+http://15.204.230.229/NBATV/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us@SD" tvg-logo="https://i.imgur.com/pEHgxgq.png" group-title="Entertainment", NBC
 http://170.254.17.2:80/NBC/index.m3u8
